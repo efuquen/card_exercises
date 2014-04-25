@@ -146,6 +146,11 @@ function cardGreaterThan(firstCard, secondCard) {
 function sortCards(cards) {
 }
 
+
+/**
+ * The Code below will test your functions, *DONT* change.
+ */
+
 shuffle();
 console.log("Shuffled: ");
 printCards(cards);
